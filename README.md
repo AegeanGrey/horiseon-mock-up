@@ -8,3 +8,6 @@ The goal of this project was to navigate through provided code and to improve it
   - Provide ease of accessiblity for the end-user through correct links and description for images
 
 I wanted to approach this scenario without aid and using what resources were provided through my class to achieve these goals and these were the results of that.
+
+Link to the deployed application:
+https://aegeangrey.github.io/horiseon-mock-up-01/
